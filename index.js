@@ -4,3 +4,4 @@ function sum(a, b) {
 
 console.log(sum(1, 2));
 console.log("Hello from develop");
+console.log("Hello from main123");
