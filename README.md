@@ -4,4 +4,11 @@
 Строка, добавленная в ветке conflict
 добавит запись из ветки depelop
 добавил новую запись из feature/test-pr
+
+1 commit
+commit 2
+3 commit
+4 commit
+
 новая строка из ветки main
+
